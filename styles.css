@@ -13,23 +13,11 @@ body {
   margin: 5svh auto;
   width: 100%;
   height: 90svh;
-  /* width: 100%;
-  height: 100svh;
+  /* height: 100svh;
   margin: auto; */
   overflow: hidden;
 }
 
 .hero img#glassTexture {
   display: none;
-}
-
-.hero-content {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
 }
